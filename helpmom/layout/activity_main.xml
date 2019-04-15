@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.t_tiger.helpmom.SecondActivity"
+    tools:context="helpmom.SecondActivity"
     android:orientation="vertical"
     android:background="@drawable/back"
     android:gravity="center"
