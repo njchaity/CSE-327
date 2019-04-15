@@ -1,8 +1,4 @@
-package com.example.t_tiger.helpmom;
-
-/**
- * Created by T-Tiger on 3/18/2018.
- */
+package helpmom;
 
 import android.content.Context;
 import android.content.SharedPreferences;
