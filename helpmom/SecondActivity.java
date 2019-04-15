@@ -1,4 +1,4 @@
-package com.example.t_tiger.helpmom;
+package helpmom;
 
 import android.app.Activity;
 import android.content.Intent;
