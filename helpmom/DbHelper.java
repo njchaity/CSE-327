@@ -1,8 +1,5 @@
-package com.example.t_tiger.helpmom;
+package helpmom;
 
-/**
- * Created by T-Tiger on 3/18/2018.
- */
 
 import android.content.ContentValues;
 import android.content.Context;
