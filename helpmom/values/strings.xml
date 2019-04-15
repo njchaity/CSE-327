@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">HelpMom</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+
+    </string>
+    <string name ="hint">Please put Your Email and Password to Login. If not Registered Please Use the Register Button.</string>
+    <string name ="hintbangla">ইমেইল এবং পাসওয়ার্ড লিখে লগ ইন করুন\n
+রেজিস্টার্ড না হয় থাকলে রেজিস্টার এ চাপ দিন </string>
+    <string name="contentdesc">nothing</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="welcome">Welcome to HelpMom.</string>
+    <string name="medicine">
+    "\t•\tAllergy : Antihistamines ( Loratadine, NasalSpray, diphenhydramine)\n\n•\tCold and Flu : Robitussin, Saline nasal drops, Actifed, Tylenol, Warm salt/gargle water.\n\n•\tConstipation : Citrucil, Colace, Milk of magnesia\n\n•\tDiarrhea : Imodium (For 24 hours only after 12 weeks of pregnancy)\n\n•\tFirst Aid Ointment : Bacitracin and Neosporin\n\n•\tHeadache : Tylenol (acetamiinophen)\n\n•\tHeartburn : Gaviscon,Riopan, Titralac \n\n•\tHemmorrhoids : Anusol, Tucks\n\n•\tNausea and Vomitting : Emetrex, Emetrol, Vitamin B6\n\n"
+
+
+    </string>
+
+    <string name="tips">Tips</string>
+    <string name="tips_line">Popular tips for smoother pregnancy</string>
+    <string name="theading1">"Stages of Pregnancy"</string>
+    <string name="theading2">"First Trimester: Week 1 (conception) – Week  12"</string>
+    <string name="theading3">"Second trimester: Week 13 – Week 28"</string>
+    <string name="theading4">"Third Trimester: Week 29 – Week 40 (birth)"</string>
+    <string name="theading5">Final Stage, 37  to 40 weeks (Baby\'s Development)</string>
+    <string name="theading6">"Track Your Weight Gain"</string>
+    <string name="theading7">"Know When to Call the Doctor"</string>
+    <string name="theading8">"Antenatal Tests and Check Ups"</string>
+    <string name="tcontent1">A typical pregnancy lasts 40 weeks from the first day of your last menstrual period (LMP) to the birth of the baby.  It is divided into three stages, called trimesters: first trimester, second trimester, and third trimester. Conception to about the 12th week of pregnancy marks the first trimester. The second trimester is weeks 13 to 27 The third trimester starts about 28 weeks and lasts until birth.</string>
+    <string name="tcontent2">"The early changes that signify pregnancy become present in the first trimester. A missed period may be the first sign you are pregnant. Other changes will also occur.Hormonal changes will affect almost every organ in the body. Some signs of early pregnancy include:•\tExtreme fatigue \n•\tNausea with or without throwing up (morning sickness)\n•\tCravings or aversion to certain foods\n•\tMood swings\n•\tConstipation\n•\tFrequent urination\n•\tHeadache\n•\tHeartburn\n•\tWeight gain or loss "</string>
+    <string name="tcontent3"> "Some changes you may notice in your body in the second trimester include:\n\n"
+                        "•\tBack, abdomen, groin, or thigh aches and pains\n\n"
+                        "•\tStretch marks on your abdomen, breasts, thighs, or buttocks\n\n"
+                        "•\tA line on the skin running from belly button to pubic hairline\n\n"
+                        "•\tPatches of darker skin, usually over the cheeks, forehead, nose, or upper lip. This is sometimes called the mask of pregnancy.\n"
+                        "•\tItching on the abdomen, palms, and soles of the feet.\n (Call your doctor if you have nausea, loss of appetite, vomiting, yellowing of skin, or fatigue combined with itching. These can be signs of a liver problem.)\n"
+                        "•\tSwelling of the ankles, fingers, and face. \n(If you notice any sudden or extreme swelling or if you gain a lot of weight quickly, call your doctor immediately.)\n"</string>
+    <string name="tcontent4"> "In the third and final trimester you will notice more physical changes, including:\n"
+                        "•\tSwelling of the ankles, fingers, and face. (If you notice any sudden or extreme swelling or if you gain a lot of weight really quickly, call your doctor right away. This could be a sign of a serious condition called preeclampsia.)\n"
+                        "•\tHemorrhoids\n"
+                        "•\tYour belly button may protrude\n"
+                        "•\tThe baby \"dropping,\" or moving lower in your abdomen\n"
+                        "•\tContractions, which can be a sign of real or false labor\n"
+                        "•\tOther symptoms you may notice in the third trimester include shortness of breath, heartburn, and difficulty sleeping\n"</string>
+    <string name="tcontent5">"•\tBy the end of 37 weeks, your baby is considered full term.\n"
+                        "•\tYour baby's organs are capable of functioning on their own.\n"
+                        "•\tAs you near your due date, your baby may turn into a head-down position for birth.\n"
+                        "•\tAverage birth weight is between 6 pounds, 2 ounces to 9 pounds, 2 ounces and average length is 19 to 21 inches long.\n Most full-term babies fall within these ranges, but healthy babies come in many different weights and sizes.\n"</string>
+    <string name="tcontent6">"We know — you're eating for two. But packing on too many extra pounds may make them hard to lose later.•\t At the same time, not can gaining enough weight can put the baby at risk for a low-weight birth, a major cause of developmental problems. •\tRecently the Institute of Medicine (IOM) issued new guidelines for weight gain during pregnancy.•\t Check in with your doctor frequently to make sure you're gaining at a healthy rate."</string>
+    <string name="tcontent7">"•\tPain of any kind\n"
+                        "•\tStrong cramps\n"
+                        "•\tContractions at 20-minute intervals\n"
+                        "•\tVaginal bleeding or leaking of fluid\n"
+                        "•\tDizziness or fainting\n"
+                        "•\tShortness of breath\n"
+                        "•\tHeart palpitations\n"
+                        "•\tConstant nausea and vomiting\n"
+                        "•\tTrouble walking, edema (swelling of joints)\n"
+                        "•\tDecreased activity by the baby\n"</string>
+    <string name="tcontent8">"During your pregnancy, you'll be offered a range of tests, including blood tests and ultrasound baby scans.\n"
+                        "•\tUrine test - to check for infection.\n"
+                        "•\tPap test - if you are due, this can be done safely in pregnancy.\n"
+                        "•\tGenetic tests\n"
+                        "•\tUltrasound – which can look for a number of problems in your baby like spina bifida, heart and limb defects and to check your due date\n"</string>
+
+
+    <string name="diet">Diet</string>
+    <string name="diet_line">Eating Healthy</string>
+    <string name="heading1">"Dont forget breakfast"</string>
+    <string name="heading2">Eat foods with fiber.</string>
+    <string name="heading3">Take a prenatal vitamin with iron and folic acid every day</string>
+    <string name="heading4">Eat up to 12 ounces a week (2 average meals) of fish</string>
+    <string name="heading5">Limit caffeine and avoid alcohol</string>
+    <string name="content1">Try fortified ready-to-eat or cooked breakfast cereals with fruit. Fortified cereals have added nutrients, like calcium.</string>
+    <string name="content2">"Choose a variety of vegetables and fruits, like carrots, cooked greens, bananas, and melon.\n"
+                    "Eat plenty of beans and whole grains. Try brown rice or oatmeal."</string>
+    <string name="content3">"Iron keeps your blood healthy. Folic acid helps prevent birth defects.\n"
+                    "Even before you find out you're pregnant, it's smart to start eating plenty of folate-rich foods like fortified cereals, asparagus, lentils, wheat germ, oranges, and orange juice."</string>
+    <string name="content4">"Avoid fish and shellfish with high levels of mercury. Common fish that are low in mercury include shrimp, and catfish. "</string>
+    <string name="content5">"Drink decaffeinated coffee or tea.\n"
+                    "Drink water or seltzer instead of soda.\n"
+                    "Don't drink alcohol."</string>
+
+
+    <string name="bangla">বাংলা</string>
+
+    <string name="med">Medicine</string>
+    <string name="medicine_line">Common medicines during pregnancy</string>
+    <string name="medicine_heading">Safe medicines during pregnancy</string>
+
+    <string name="hospital">Hospital</string>
+    <string name="hospital_line">Find Nearby Hospitals and Doctors</string>
+    <string name="hospital_btn">Nearby Hospitals</string>
+
+
+    <string name="home">Home</string>
+
+
+    <string name="bmi">BMI</string>
+    <string name="bmi_weight">Weight</string>
+    <string name="bmi_weight_hint">Kgs</string>
+
+    <string name="bmi_Height">Height</string>
+    <string name="bmi_height_hint_feet">Feet</string>
+    <string name="bmi_height_hint_inch">Inches</string>
+    <string name="bmi_btn">Calculate BMI</string>
+
+    <string name="your_bmi">YOUR BMI INDEX IS :</string>
+    <string name="very_severely_underweight">Very Severely Underweight</string>
+    <string name="severely_underweight">Severely Underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese Class I</string>
+    <string name="obese_class_ii">Obese Class II</string>
+    <string name="obese_class_iii">Obese Class III</string>
+
+    <string name="calender">Calender</string>
+    <string name="due_date">Find out Expected Date</string>
+    <string name="prd">Last Period Date</string>
+    <string name="msg_date">Your Expected Date</string>
+    <string name="event">Add Medicine and Doctor Appointments Reminder</string>
+    <string name="eventbutton">"Tap here "</string>
+
+    <string name="title_activity_maps2">Map</string>
+</resources>
