@@ -1,4 +1,4 @@
-package com.example.t_tiger.helpmom;
+package helpmom;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
