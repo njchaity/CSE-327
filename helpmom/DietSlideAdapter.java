@@ -10,9 +10,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-/**
- * Created by T-Tiger on 3/21/2018.
- */
+
 
 public class DietSlideAdapter extends PagerAdapter {
 
