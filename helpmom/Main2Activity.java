@@ -1,4 +1,4 @@
-package com.example.t_tiger.helpmom;
+package helpmom;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
