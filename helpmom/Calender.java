@@ -83,6 +83,48 @@ public class Calender extends AppCompatActivity {
                 return true;
             }
         });
+        mDateSetListener = new DatePickerDialog.OnDateSetListener() {
+            @Override
+            public void onDateSet(DatePicker datePicker, int year, int month, int day) {
+                month++;
+                String date2 = day + "/" + month + "/" + year;
+                mDisplayDate2.setText(date2);
+
+                Calendar c = Calendar.getInstance();
+
+                c.set(year, month, day);
+                c.add(Calendar.WEEK_OF_YEAR, 40);
+                c.add(Calendar.MONTH,-1);
+                Date date = c.getTime();
+
+
+
+                SimpleDateFormat sdf = new SimpleDateFormat("dd-MMM-yyyy");
+                String formattedDate = sdf.format(date);
+                mDisplayDate3.setText(getString(R.string.msg_date));
+                mDisplayDate.setText(formattedDate);
+
+            }
+        };
+
+    }
+    public void onAddEventClicked(View view){
+        Intent intent = new Intent(Intent.ACTION_INSERT);
+        intent.setType("vnd.android.cursor.item/event");
+
+        Calendar cal = Calendar.getInstance();
+        long startTime = cal.getTimeInMillis();
+        long endTime = cal.getTimeInMillis()  + 60 * 60 * 1000;
+
+        intent.putExtra(CalendarContract.EXTRA_EVENT_BEGIN_TIME, startTime);
+        intent.putExtra(CalendarContract.EXTRA_EVENT_END_TIME,endTime);
+        intent.putExtra(CalendarContract.EXTRA_EVENT_ALL_DAY, true);
+
+
+
+
+
+        startActivity(intent);
     }
 
 }
